@@ -1,4 +1,4 @@
-(defproject lein-cljsbuild "1.0.3"
+(defproject lein-cljsbuild "1.0.4-SNAPSHOT"
   :description "ClojureScript Autobuilder Plugin"
   :url "http://github.com/emezeske/lein-cljsbuild"
   :license
